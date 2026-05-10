@@ -107,7 +107,7 @@ def load(usuarios: list[dict]) -> None:
 
 def run_pipeline():
     log.info("=" * 55)
-    log.info("ETL — Santander Dev Week (Alternativa 1)")
+    log.info("ETL — TOTVS Engenharia de Dados (Alternativa 1)")
     log.info("=" * 55)
 
     usuarios = extract()
